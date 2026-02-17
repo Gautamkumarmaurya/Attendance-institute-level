@@ -18,8 +18,8 @@ It ensures secure access using JWT-based authentication and maintains approval h
 
 🚀 Features
 
-  ● Role-Based Authentication (JWT)
-  ● Secure Password Encryption (BCrypt)
+● Role-Based Authentication (JWT)
+● Secure Password Encryption (BCrypt)
   ● Attendance Marking by Faculty
   ● Attendance Percentage Calculation
   ● Leave Application by Student
