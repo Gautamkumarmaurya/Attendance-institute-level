@@ -13,7 +13,6 @@ The system supports four roles:
   ● FACULTY  
   ● HOD
   ● ADMIN
-
 It ensures secure access using JWT-based authentication and maintains approval history for transparency.
 
 🚀 Features
