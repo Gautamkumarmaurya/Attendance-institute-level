@@ -8,9 +8,11 @@ Transparent Multi-Level Approval Workflow
 This project is a role-based Student Attendance Management System designed for institute-level usage. It enables secure attendance tracking and implements a transparent multi-level leave approval workflow.
 
 The system supports four roles:
+  
   ● STUDENT    
   ● FACULTY  
   ● HOD
+  
   ● ADMIN
 
 It ensures secure access using JWT-based authentication and maintains approval history for transparency.
