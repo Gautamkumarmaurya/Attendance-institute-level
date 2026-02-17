@@ -13,19 +13,20 @@ The system supports four roles:
   ● FACULTY  
   ● HOD
   ● ADMIN
+  
 It ensures secure access using JWT-based authentication and maintains approval history for transparency.
 
 🚀 Features
 
-● Role-Based Authentication (JWT)
-● Secure Password Encryption (BCrypt)
-● Attendance Marking by Faculty
-Attendance Percentage Calculation
-Leave Application by Student
-Multi-Level Leave Approval (Faculty → HOD → Admin)
-Approval History Tracking (Audit System)
-RESTful API Design
-Layered Architecture (Controller, Service, Repository, DTO)
+  ● Role-Based Authentication (JWT)
+  ● Secure Password Encryption (BCrypt)
+  ● Attendance Marking by Faculty
+  ● Attendance Percentage Calculation
+  ● Leave Application by Student
+  ● Multi-Level Leave Approval (Faculty → HOD → Admin)
+  ● Approval History Tracking (Audit System)
+  ● RESTful API Design
+  ● Layered Architecture (Controller, Service, Repository, DTO)
 
 🛠️ Tech Stack
 
