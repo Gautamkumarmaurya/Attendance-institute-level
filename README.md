@@ -39,6 +39,16 @@ It ensures secure access using JWT-based authentication and maintains approval h
 
 ● Layered Architecture (Controller, Service, Repository, DTO)
 
+                                                              🔐 Security Implementation
+
+● Stateless authentication using JWT
+
+● Password hashing using BCrypt
+
+● Method-level authorization using @PreAuthorize
+
+● Custom JWT filter for token validation
+
                                                                 🛠️ Tech Stack
 
 ● Java 17
