@@ -3,7 +3,7 @@
 🎓 Institute-Level Student Attendance System
 Transparent Multi-Level Approval Workflow
 
-📌 Project Overview
+                                                            📌 Project Overview
 
 This project is a role-based Student Attendance Management System designed for institute-level usage. It enables secure attendance tracking and implements a transparent multi-level leave approval workflow.
 
@@ -16,10 +16,10 @@ The system supports four roles:
   
 It ensures secure access using JWT-based authentication and maintains approval history for transparency.
 
-                                          🚀 Features
+                                                                🚀 Features
 
- ● Role-Based Authentication (JWT)
- ● Secure Password Encryption (BCrypt)
+  ● Role-Based Authentication (JWT)
+  ● Secure Password Encryption (BCrypt)
   ● Attendance Marking by Faculty
   ● Attendance Percentage Calculation
   ● Leave Application by Student
@@ -28,51 +28,51 @@ It ensures secure access using JWT-based authentication and maintains approval h
   ● RESTful API Design
   ● Layered Architecture (Controller, Service, Repository, DTO)
 
-🛠️ Tech Stack
+                                                                🛠️ Tech Stack
 
-Java 17
+● Java 17
 
-Spring Boot
+● Spring Boot
 
-Spring Security
+● Spring Security
 
-JWT (JSON Web Token)
+● JWT (JSON Web Token)
 
-Spring Data JPA
+● Spring Data JPA
 
-PostgreSQL
+● PostgreSQL
 
-Lombok
+● Lombok
 
-Maven
+● Maven
 
-🗄️ Database Design
+                                                                🗄️ Database Design
 
 Main Entities:
 
-User
+● User
 
-Student
+● Student
 
-Faculty
+● Faculty
 
-Attendance
+● Attendance
 
-LeaveRequest
+● LeaveRequest
 
-ApprovalHistory
+● ApprovalHistory
 
-Relationships:
+                    Relationships:
 
-One-to-One (User ↔ Student / Faculty)
+● One-to-One (User ↔ Student / Faculty)
 
-One-to-Many (LeaveRequest ↔ ApprovalHistory)
+● One-to-Many (LeaveRequest ↔ ApprovalHistory)
 
-🔄 Multi-Level Approval Workflow
+                                                              🔄 Multi-Level Approval Workflow
 
-Student applies leave (Status: PENDING)
+● Student applies leave (Status: PENDING)
 
-Faculty approves (Status: FACULTY_APPROVED)
+● Faculty approves (Status: FACULTY_APPROVED)
 
 HOD approves (Status: HOD_APPROVED)
 
