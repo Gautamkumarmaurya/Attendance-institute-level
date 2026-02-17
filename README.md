@@ -9,11 +9,10 @@ This project is a role-based Student Attendance Management System designed for i
 
 The system supports four roles:
 
-● STUDENT    
-● FACULTY  
-● HOD
-
-● ADMIN
+  ● STUDENT    
+  ● FACULTY  
+  ● HOD
+  ● ADMIN
 
 It ensures secure access using JWT-based authentication and maintains approval history for transparency.
 
