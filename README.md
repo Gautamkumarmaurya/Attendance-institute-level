@@ -16,10 +16,10 @@ The system supports four roles:
   
 It ensures secure access using JWT-based authentication and maintains approval history for transparency.
 
-🚀 Features
+                                          🚀 Features
 
-● Role-Based Authentication (JWT)
-● Secure Password Encryption (BCrypt)
+ ● Role-Based Authentication (JWT)
+ ● Secure Password Encryption (BCrypt)
   ● Attendance Marking by Faculty
   ● Attendance Percentage Calculation
   ● Leave Application by Student
